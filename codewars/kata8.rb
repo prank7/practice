@@ -19,4 +19,4 @@ def filter_list(l)
 end
 
 
-#Learn - "select" selects from list according to the condition and saves it as well.
+#Learn - "select" selects from list according to the condition and saves it as well.	
